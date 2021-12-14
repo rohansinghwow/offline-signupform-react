@@ -2,8 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-[]!(pic1.png)
-[]!(pic2.png)
+![](pic1.png)
+![](pic2.png)
 
 
 ## Available Scripts
