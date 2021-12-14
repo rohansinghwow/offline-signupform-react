@@ -4,6 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ![](pic1.png)
 ![](pic2.png)
+![](pic3.png)
 
 
 ## Available Scripts
